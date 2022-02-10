@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a basic boilerplate for developing your API with NodeJS and ExpressJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animesh137/NodeJS-Express-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animesh137/NodeJS-Express-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/animesh137/NodeJS-Express-Boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
